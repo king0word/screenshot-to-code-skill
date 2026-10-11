@@ -38,7 +38,7 @@ scripts/render.mjs 无头渲染 → PNG
 克隆本仓库，把 `screenshot-to-code/` 文件夹复制到全局技能目录：
 
 ```bash
-git clone https://github.com/<your-github-username>/screenshot-to-code-skill.git
+git clone https://github.com/king0word/screenshot-to-code-skill.git
 mkdir -p ~/.trae-cn/skills
 cp -r screenshot-to-code-skill/screenshot-to-code ~/.trae-cn/skills/
 ```
@@ -48,7 +48,7 @@ Windows 用户复制到 `C:\Users\<你>\.trae-cn\skills\screenshot-to-code\`。
 ### Claude Code
 
 ```bash
-git clone https://github.com/<your-github-username>/screenshot-to-code-skill.git
+git clone https://github.com/king0word/screenshot-to-code-skill.git
 mkdir -p ~/.claude/skills
 cp -r screenshot-to-code-skill/screenshot-to-code ~/.claude/skills/
 ```
